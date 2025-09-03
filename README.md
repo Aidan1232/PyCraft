@@ -5,3 +5,6 @@ PyCraft is a modular sandbox experience built in Python, crafted for legacy resi
 ---
 
 The game runs as a self-contained artifact. No installation, no external dependencies. Just unzip and launch. 
+
+---
+This game does use discord rich presence in the code!

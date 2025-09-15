@@ -4,7 +4,7 @@ PyCraft is a modular sandbox experience built in Python, crafted for legacy resi
 
 ---
 
-1. How it's made
+# How it's made
 
 Using the Ursina engine, it reimagines voxel gameplay through built in shaders and amazing lighting, it creates an amazing experience to play for hours
 

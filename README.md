@@ -1,10 +1,14 @@
+# PyCraft
+
+---
+
 ## How to play
 
 The game runs as a one-stop-shop. No extra installs, no external dependencies. Just unzip and launch the game via `RunGame.vbs`
 
 ---
 
-# PyCraft
+# About
 
 PyCraft is a modular sandbox experience built in Python, crafted for legacy resilience and emotional resonance.
 

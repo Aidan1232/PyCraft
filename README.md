@@ -1,3 +1,9 @@
+# How to play
+
+The game runs as a one-stop-shop. No extra installs, no external dependencies. Just unzip and launch the game via `RunGame.vbs`
+
+---
+
 # PyCraft
 
 PyCraft is a modular sandbox experience built in Python, crafted for legacy resilience and emotional resonance.
@@ -13,9 +19,3 @@ Using the Ursina engine, it reimagines voxel gameplay through built in shaders a
 # What does it include
 
 This does have built-in discord rich presence along side a launcher with all your needs to play this amazing game
-
----
-
-# How to play
-
-The game runs as a one-stop-shop. No extra installs, no external dependencies. Just unzip and launch the game via `RunGame.vbs`

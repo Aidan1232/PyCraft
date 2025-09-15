@@ -1,4 +1,4 @@
-# How to play
+## How to play
 
 The game runs as a one-stop-shop. No extra installs, no external dependencies. Just unzip and launch the game via `RunGame.vbs`
 

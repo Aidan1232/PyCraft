@@ -18,4 +18,4 @@ This does have built-in discord rich presence along side a launcher with all you
 
 # How to play
 
-The game runs as a one-stop-shop. No installation, no external dependencies. Just unzip and launch. 
+The game runs as a one-stop-shop. No extra installs, no external dependencies. Just unzip and launch. 

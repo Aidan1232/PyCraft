@@ -23,3 +23,7 @@ Using the Ursina engine, it reimagines voxel gameplay through built in shaders a
 # What does it include
 
 This does have built-in discord rich presence along side a launcher with all your needs to play this amazing game
+
+---
+
+PyCraft assets are licensed under the PyCraft Asset License. See LICENSE for details.

@@ -10,6 +10,7 @@ The game runs as a one-stop-shop. No extra installs, no external dependencies. J
 ### More information
 
 it has the 3.11 install of python included to make it a one-stop-shop
+
 ---
 
 ## About

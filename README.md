@@ -6,6 +6,10 @@
 
 The game runs as a one-stop-shop. No extra installs, no external dependencies. Just unzip and launch the game via `RunGame.vbs`
 
+
+### More information
+
+it has the 3.11 install of python included to make it a one-stop-shop
 ---
 
 # About

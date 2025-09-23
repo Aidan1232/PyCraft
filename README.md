@@ -30,4 +30,4 @@ This does have built-in discord rich presence along side a launcher with all you
 
 ---
 
-PyCraft assets are licensed under the PyCraft Asset License. See LICENSE for details.
+# **PyCraft assets are licensed under the PyCraft Asset License. See LICENSE for details.**
